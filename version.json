@@ -1,0 +1,6 @@
+{
+  "version": 1,
+  "updated": "2026-11-27",
+  "notes": "初始版本：攻击 xN / 受伤 ÷N，按 Controls 字段区分敌我",
+  "script": "mcoc_menu.js"
+}
